@@ -1,0 +1,10 @@
+{
+  "$policyId": {dd905b7be0fcd666dc2c184b61cea090f4198a84f01262179483e381
+    "project": PEPEC
+    "categories": ["DeFi", "GameFi", "Meme", "NFT", "Other"]
+    "socialLinks"?: {
+      "twitter"?: https://twitter.com/PepeOnAda
+      "discord"?: private 
+    }
+  }
+}
